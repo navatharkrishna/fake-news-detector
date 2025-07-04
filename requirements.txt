@@ -1,6 +1,6 @@
 streamlit
-joblib
+openai>=1.2.0
 pandas
-deep-translator
-openai>=1.0.0
 scikit-learn
+joblib
+deep-translator
